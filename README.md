@@ -1,18 +1,18 @@
 # VideoCompress
-![GitHub Repo stars](https://img.shields.io/github/stars/AbirHasan2005/VideoCompress?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/AbirHasan2005/VideoCompress?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/AbirHasan2005/VideoCompress)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/AbirHasan2005/VideoCompress)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AbirHasan2005/VideoCompress)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbirHasan2005/VideoCompress)
-![GitHub contributors](https://img.shields.io/github/contributors/AbirHasan2005/VideoCompress?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/AbirHasan2005/VideoCompress?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AbirHasan2005/VideoCompress)
-![GitHub](https://img.shields.io/github/license/AbirHasan2005/VideoCompress)
+![GitHub Repo stars](https://img.shields.io/github/stars/vineet664/VideoCompress?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/vineet664/VideoCompress?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/vineet664/VideoCompress)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/vineet664/VideoCompress)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/vineet664/VideoCompress)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/vineet664/VideoCompress)
+![GitHub contributors](https://img.shields.io/github/contributors/vineet664/VideoCompress?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/vineet664/VideoCompress?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vineet664/VideoCompress)
+![GitHub](https://img.shields.io/github/license/vineet664/VideoCompress)
 [![Bot Support](https://img.shields.io/badge/Video%20Compress%20Bot-support%20group-blue)](https://t.me/LinuxRepository_OT)
 
 
-A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [@vineet664](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
@@ -78,7 +78,7 @@ exec - EXEC 🙄
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/vineet664"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
 <a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
@@ -93,4 +93,4 @@ exec - EXEC 🙄
 ### Credits:
 * [Jijinr](https://github.com/Jijinr)
 * [SpEcHide](https://github.com/spechide)
-* [AbirHasan2005](https://github.com/AbirHasan2005)
+* [AbirHasan2005](https://github.com/vineet664)
