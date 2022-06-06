@@ -1,5 +1,5 @@
 # VideoCompress
-A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [vineet664](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
@@ -67,7 +67,7 @@ exec - EXEC 🙄
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/vineet664"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
 <a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
@@ -82,4 +82,4 @@ exec - EXEC 🙄
 ### Credits:
 * [Jijinr](https://github.com/Jijinr)
 * [SpEcHide](https://github.com/spechide)
-* [AbirHasan2005](https://github.com/AbirHasan2005)
+* [vineet664](https://github.com/vineet664)
